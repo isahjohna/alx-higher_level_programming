@@ -1,7 +1,8 @@
 #!/usr/bin/python3
-"""Print a list of integers
-"""
+
+"""a function that prints all integers"""
+
 
 def print_list_integer(my_list=[]):
-    for i in my_list:
-        print("{:d}".format(i))
+    for integer in my_list:
+        print("{:d}".format(integer))
