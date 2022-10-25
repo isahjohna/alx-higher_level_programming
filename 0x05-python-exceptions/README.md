@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Python - Exceptions In this project, I learned handling errors and exceptions in Python with try and except.
 
 Function Prototypes 💾 Prototypes for functions written in this project:
@@ -113,3 +114,6 @@ Otherwise, prints an en exception error to stderr and returns None.
 
 103-python.c: C functions that print basic information about Python lists, bytes, and float objects.
 >>>>>>> 4fa9e7169ff5c8cdf2a15a78505bd553e2fc3941
+=======
+Readme file for the project
+>>>>>>> cb6d24b2fd0f462da8674a32772d273f29d4be35
